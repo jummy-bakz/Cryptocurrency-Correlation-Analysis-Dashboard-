@@ -80,6 +80,6 @@ The Cryptocurrency Correlation Analysis Dashboard provides comprehensive insight
 
 ---
 
-This project was completed by Dasola Olanrewaju. Feel free to connect with me on [[LinkedIn]([[your-linkedin-url](https://www.linkedin.com/in/olanrewaju-dasola-697a70253/)] for any questions or discussions related to this project or cryptocurrency analytics in general.
+This project was completed by Dasola Olanrewaju. Feel free to connect with me on [[[LinkedIn](https://www.linkedin.com/in/olanrewaju-dasola-697a70253/)] for any questions or discussions related to this project or cryptocurrency analytics in general.
 
 Happy analyzing, and may your crypto investments be truly diversified! 🚀📈💎
